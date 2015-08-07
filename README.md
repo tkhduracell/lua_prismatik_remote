@@ -11,9 +11,7 @@ Mainly built to annoy coworkers as much as possible.
  * Prismatik installed (https://github.com/woodenshark/Lightpack/releases)
 
 ## Setup
- 1. Open Prismatik settings
- 2. Go to experimental
- 3. Check "Enable server (API via sockets)"
+ 1. `Prismatik settings` -> `Experimental` -> `Enable server (API via sockets)` ✔︎
 
 ## Todo
  * Improve interface
