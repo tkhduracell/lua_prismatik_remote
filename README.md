@@ -1,5 +1,6 @@
 # Prismatik Profiles Remote
-Simple remote to control the Prismatik Profiles over TCP. I built this to annoy my coworkers as much as possible. 
+Simple remote to control the Prismatik Profiles over TCP.  
+Mainly built to annoy coworkers as much as possible. 
 
 ## Features
 * Get and select light profile for Prismatik
