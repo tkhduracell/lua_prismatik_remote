@@ -2,12 +2,12 @@
 Simple remote to control the Prismatik Profiles over TCP. I built this to annoy my coworkers as much as possible. 
 
 ## Features
-* Get Profiles from Prismatik
-* Select Profile
-* Turn on/off Profile
+* Get and select light profile for Prismatik
+* Turn on/off
 
 ## Requirements
- * Have Prismatik compatible light set (e.g. LightPack.tv)
+ * Prismatik compatible lightset (e.g. LightPack.tv)
+ * Prismatik installed (https://github.com/woodenshark/Lightpack/releases)
 
 ## Setup
  1. Open Prismatik settings
@@ -16,7 +16,7 @@ Simple remote to control the Prismatik Profiles over TCP. I built this to annoy 
 
 ## Todo
  * Improve interface
- *  Manually switch colors
+ * Manually switch colors
 
 ## Screenshots
 <img src="screen1.jpg" alt="Screenshot 1" width="200">
